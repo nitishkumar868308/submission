@@ -1,0 +1,5 @@
+.pending/
+.env
+.DS_Store
+Thumbs.db
+*.swp
